@@ -1,3 +1,4 @@
-# bluerov2commonmsgs
+# BlueAUVcommonmsgs
 
-This Ros Package defines messages used throughout bluerov2 development.
+This ROS Package defines messages used throughout BlueAUV development.
+See https://github.com/constructor-robotics/blueauvcommon for the common drivers.
